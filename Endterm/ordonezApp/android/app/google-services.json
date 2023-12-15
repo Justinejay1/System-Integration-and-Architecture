@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "754184877489",
+    "project_id": "ordonez",
+    "storage_bucket": "ordonez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754184877489:android:915dbcf0a1106dcfe8b990",
+        "android_client_info": {
+          "package_name": "com.example.airbnb_scheduler_pilot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdVH3znwyMTDTuvr_sDFhWGt9TGDRimnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754184877489:android:40607d8744f7f1abe8b990",
+        "android_client_info": {
+          "package_name": "com.example.ordonez_vet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdVH3znwyMTDTuvr_sDFhWGt9TGDRimnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
